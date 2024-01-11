@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000001" source="CancerGov" url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq">
+<Focus>Non-Small Cell Lung Cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007131</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_554">What are the treatment options of treatment of Stage 0 (Carcinoma in Situ)?</Question>
+			<Answer>Treatment of stage 0 may include the following: - Surgery (wedge resection or segmental resection). - Photodynamic therapy, electrocautery, cryosurgery, or laser surgery for tumors in or near the bronchus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_557">What are the treatment options of stage IA and stage 1B non-small cell lung cancer?</Question>
+			<Answer>Treatment of stage IA non-small cell lung cancer and stage IB non-small cell lung cancer may include the following: - Surgery (wedge resection, segmental resection, sleeve resection, or lobectomy). - Surgery followed by targeted therapy with an EGFR tyrosine kinase inhibitor, such as osimertinib. - External radiation therapy, including stereotactic body radiation therapy for patients who cannot have surgery or choose not to have surgery. - A clinical trial of chemotherapy or radiation therapy following surgery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_563">What are the treatment options of stage IIA and stage IIB non-small cell lung cancer?</Question>
+			<Answer>Treatment of stage IIA non-small cell lung cancer and stage IIB non-small cell lung cancer may include the following: - Surgery (wedge resection, segmental resection, sleeve resection, lobectomy, or pneumonectomy). - Surgery followed by chemotherapy. - Surgery followed by targeted therapy with an EGFR tyrosine kinase inhibitor, such as osimertinib. - Surgery followed by immunotherapy, such as atezolizumab. - Surgery followed by radiation therapy. - Chemotherapy followed by surgery. - Immunotherapy, such as nivolumab, and chemotherapy followed by surgery. - External radiation therapy for patients who cannot have surgery. - A clinical trial of radiation therapy following surgery.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_567">What are the treatment options of stage IIIA non-small cell lung cancer that can be removed with surgery?</Question>
+			<Answer> - Chemotherapy followed by surgery. - Chemotherapy and radiation therapy followed by surgery. - Immunotherapy, such as nivolumab, and chemotherapy followed by surgery. - Surgery followed by chemotherapy. - Surgery followed by targeted therapy with an EGFR tyrosine kinase inhibitor, such as osimertinib. - Surgery followed by immunotherapy, such as atezolizumab. - Surgery followed by chemotherapy combined with radiation therapy. - Surgery followed by radiation therapy. - A clinical trial of new combinations of treatments.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_567">What are the treatment options of stage IIIA non-small cell lung cancer that cannot be removed with surgery?</Question>
+			<Answer> - Chemotherapy and radiation therapy. - Chemotherapy and radiation therapy followed by immunotherapy with an immune checkpoint inhibitor, such as durvalumab. - External radiation therapy alone. - Internal radiation therapy or laser surgery, as palliative treatment to relieve symptoms and improve the quality of life.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_567">What are the treatment options of stage IIIA non-small cell lung cancer of the superior sulcus, often called Pancoast tumor?</Question>
+			<Answer> - Surgery. - Chemotherapy and radiation therapy followed by surgery. - adiation therapy alone. - A clinical trial of new combinations of treatments.</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_567">What are the treatment options of stage IIIA non-small cell lung tumors that have grown into the chest wall?</Question>
+			<Answer> - Surgery. - Surgery and radiation therapy. - Radiation therapy alone. - Chemotherapy combined with radiation therapy and/or surgery. - A clinical trial of new combinations of treatments.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_578">What are the treatment options of Stage IIIB and Stage IIIC Non-Small Cell Lung Cancer?</Question>
+			<Answer> - Chemotherapy followed by external radiation therapy. - Chemotherapy and radiation therapy given over the same period of time. The radiation therapy dose may increase over time. - Chemotherapy and radiation therapy given over the same period of time. Immunotherapy with an immune checkpoint inhibitor, such as durvalumab, may be given before or after these treatments. - External radiation therapy alone for patients who cannot be treated with chemotherapy. - External radiation therapy as palliative therapy, to relieve symptoms and improve the quality of life. - Laser therapy and/or internal radiation therapy to relieve symptoms and improve the quality of life. - Clinical trials of new external radiation therapy schedules and new types of treatment. - A clinical trial of chemotherapy and radiation therapy combined with a radiosensitizer. - Clinical trials of targeted therapy combined with chemotherapy and radiation therapy.</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_584">What are the treatment options of Newly Diagnosed Stage IV, Relapsed, and Recurrent Non-Small Cell Lung Cancer?</Question>
+			<Answer> - Combination chemotherapy. - Combination chemotherapy and targeted therapy with a monoclonal antibody, such as bevacizumab, cetuximab, or necitumumab. - Combination chemotherapy followed by more chemotherapy as maintenance therapy to help keep cancer from progressing. - Targeted therapy with an EGFR tyrosine kinase inhibitor, such as osimertinib, dacomitinib, gefitinib, erlotinib, or afatinib. - Targeted therapy with an ALK inhibitor, such as alectinib, lorlatinib, crizotinib, ceritinib, or brigatinib. - Targeted therapy with a BRAF inhibitor or MEK inhibitor, such as dabrafenib or trametinib. - Targeted therapy with crizotinib and entrectinib to stop proteins from being made by the ALK and ROS1 genes. - Targeted therapy with a NTRK inhibitor, such as larotrectinib or entrectinib. - Targeted therapy with a RET inhibitor, such as selpercatinib or pralsetinib. - Targeted therapy with a MET inhibitor, such as tepotinib or capmatinib. - Immunotherapy with an immune checkpoint inhibitor, such as pembrolizumab, cemiplimab, tremelimumab, or atezolizumab, with or without chemotherapy. - Targeted therapy with an mTOR inhibitor, such as everolimus. - Laser therapy and/or internal radiation therapy for tumors that are blocking the airways. - External radiation therapy as palliative therapy, to relieve symptoms and improve the quality of life. - Surgery to remove a second primary tumor. - Surgery to remove cancer that has spread to the brain, followed by radiation therapy to the whole brain. - Stereotactic radiosurgery for tumors that have spread to the brain and cannot be treated with surgery. - A clinical trial of new drugs and combinations of treatments.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question url="https://www.cancer.gov/types/lung/patient/non-small-cell-lung-treatment-pdq#_588">What are the treatment options of Progressive Stage IV, Relapsed, and Recurrent Non-Small Cell Lung Cancer?</Question>
+			<Answer> - Chemotherapy. - Targeted therapy with an EGFR tyrosine kinase inhibitor, such as erlotinib, gefitinib, afatinib, osimertinib, or amivantamab. - Targeted therapy with an ALK inhibitor, such as crizotinib, ceritinib, alectinib, brigatinib, or lorlatinib. - Targeted therapy with a BRAF inhibitor or MEK inhibitor, such as dabrafenib or trametinib. - Targeted therapy with crizotinib and entrectinib to stop proteins from being made by the ALK and ROS1 genes. - Targeted therapy with a NTRK inhibitor, such as larotrectinib or entrectinib. - Targeted therapy with a RET inhibitor, such as selpercatinib or pralsetinib. - Targeted therapy with a MET inhibitor, such as tepotinib or capmatinib. - Targeted therapy with a KRAS G12C inhibitor, such as sotorasib or adagrasib. - Targeted therapy with trastuzumab deruxtecan for HER2-positive cancers. - Immunotherapy with an immune checkpoint inhibitor, such as nivolumab, pembrolizumab, or atezolizumab. - Targeted therapy with an mTOR inhibitor, such as everolimus. - A clinical trial of new drugs and combinations of treatments.</Answer>
+	</QAPair>	
+</QAPairs>
+</Document>

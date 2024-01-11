@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000001" source="CancerNet" url="https://www.cancer.net/cancer-types/lung-cancer-non-small-cell/types-treatment#treatment-by-stage">
+<Focus>Non-Small Cell Lung Cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007131</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question>What is the recommended treatment option for patients with stage IB cancer with an activating EGFR mutation?</Question>
+			<Answer>targeted therapy with adjuvant osimertinib for up to 3 years.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question>What is the recommended treatment option for patients with stage II NSCLC that has been completely removed with surgery?</Question>
+			<Answer>Adjuvant cisplatin-based chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question>What is the treatment option if there is not an activating EGFR mutation, particularly if the tumor's PD-L1 expression is high?</Question>
+			<Answer>treatment with atezolizumab for up to 1 year may be recommended</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question>What are the treatment options for patients with stage I or II lung cancer who cannot or prefer not to undergo surgery?</Question>
+			<Answer>radiation therapy, such as stereotactic ablative radiotherapy (SABR) or stereotactic body radiotherapy (SBRT), may be offered</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question>What is the recommended treatment option if the stage III NSCLC cannot be removed with surgery?</Question>
+			<Answer>concurrent chemoradiotherapy using a platinum-based chemotherapy combination</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question>What is the recommended treatment option in stage III NSCLC if concurrent chemoradiotherapy has slowed or stopped the cancer’s growth?</Question>
+			<Answer>immunotherapy with durvalumab for up to 1 year after completion of chemoradiotherapy</Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question>What is the treatment option for patients in stage III NSCLC if concurrent chemoradiotherapy is not an option?</Question>
+			<Answer>sequential chemoradiotherapy</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question>What are the treatment option for patients in stage III NSCLC before the surgery if surgery is an option?</Question>
+			<Answer>systemic therapy using chemotherapy, immunotherapy, and/or concurrent chemoradiotherapy</Answer>
+	</QAPair>
+	<QAPair pid="9">
+			<Question>What are the treatment option for patients in stage III NSCLC after the surgery?</Question>
+			<Answer>adjuvant platinum-based chemotherapy and/or osimertinib or atezolizumab may be offered. Recently, the FDA also approved the use of pembrolizumab after surgery in patients with stage IB to stage III NSCLC.</Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question>What are the first-line treatment options for patients in metastatic or stage IV NSCLC having the following conditions? 1) No changes in the EGFR, ALK, ROS1, BRAF, MET, RET, NTRK genes 2) Non-squamous cell carcinoma with PD-L1 50% or higher?</Question>
+			<Answer> - Pembrolizumab alone. - Atezolizumab alone. - Combination of pembrolizumab, carboplatin, and pemetrexed. - Combination of atezolizumab, carboplatin, paclitaxel, and bevacizumab. - Combination of atezolizumab, carboplatin, and nab-paclitaxel. - Nivolumab and ipilimumab plus platinum-based chemotherapy. - Cemiplimab alone. - Nivolumab plus ipilimumab.</Answer>
+	</QAPair>
+	<QAPair pid="11">
+			<Question>What are the first-line treatment options for patients in metastatic or stage IV NSCLC having the following conditions? 1) No changes in the EGFR, ALK, ROS1, BRAF, MET, RET, NTRK genes 2) Non-squamous cell carcinoma and PD-L1 1% to 49%</Question>
+			<Answer> - Nivolumab and ipilimumab plus platinum-based chemotherapy. - Combination of nivolumab and ipilimumab. - Pembrolizumab combined with carboplatin and pemetrexed. - Combination of atezolizumab, carboplatin, paclitaxel, and bevacizumab. - Combination of atezolizumab, carboplatin, and nab-paclitaxel. - Cemiplimab plus chemotherapy. - Durvalumab and tremelimumab plus platinum-based chemotherapy. - For people who cannot receive immunotherapy, a combination of 2 chemotherapy drugs is recommended. - Pembrolizumab alone may be recommended for people who cannot receive a combination of pembrolizumab with a platinum chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="12">
+			<Question>What are the first-line treatment options for patients in metastatic or stage IV NSCLC having the following conditions? 1) No changes in the EGFR, ALK, ROS1, BRAF, MET, RET, NTRK genes 2) Non-squamous cell carcinoma and PD-L1 less than 1%</Question>
+			<Answer> - Nivolumab and ipilimumab plus platinum-based chemotherapy. - Nivolumab and ipilimumab. - Pembrolizumab combined with carboplatin and pemetrexed. - Combination of atezolizumab, carboplatin, paclitaxel, and bevacizumab. - Combination of atezolizumab, carboplatin, and nab-paclitaxel. - Cemiplimab plus chemotherapy. - Durvalumab and tremelimumab plus platinum-based chemotherapy. - For people who cannot receive immunotherapy, a combination of 2 chemotherapy drugs is recommended.</Answer>
+	</QAPair>
+	<QAPair pid="13">
+			<Question>What are the first-line treatment options for patients in metastatic or stage IV NSCLC having the following conditions? 1) No changes in the EGFR, ALK, ROS1, BRAF, MET, RET, NTRK genes 2) Squamous cell carcinoma and PD-L1 50% or higher</Question>
+			<Answer> - Atezolizumab alone. - Cemiplimab alone. - Pembrolizumab alone. - Combination of nivolumab and ipilimumab. - Nivolumab and ipilimumab plus platinum-based chemotherapy. - Combination of pembrolizumab, carboplatin, and paclitaxel or nab-paclitaxel.</Answer>
+	</QAPair>
+	<QAPair pid="14">
+			<Question>What are the first-line treatment options for patients in metastatic or stage IV NSCLC having the following conditions? 1) No changes in the EGFR, ALK, ROS1, BRAF, MET, RET, NTRK genes 2) Squamous cell carcinoma and PD-L1 1% to 49%</Question>
+			<Answer> - A combination of pembrolizumab, carboplatin, and paclitaxel or nab-paclitaxel should be recommended when it is possible. - For people who cannot receive immunotherapy, a combination of 2 chemotherapy drugs is recommended. - Combination of nivolumab and ipilimumab. - Nivolumab and ipilimumab plus platinum-based chemotherapy. - Cemiplimab plus chemotherapy. - Durvalumab and tremelimumab plus platinum-based chemotherapy. - For people who cannot receive pembrolizumab plus platinum chemotherapy, pembrolizumab alone may be recommended.</Answer>
+	</QAPair>
+	<QAPair pid="15">
+			<Question>What are the first-line treatment options for patients in metastatic or stage IV NSCLC having the following conditions? 1) No changes in the EGFR, ALK, ROS1, BRAF, MET, RET, NTRK genes 2) Squamous cell carcinoma and PD-L1 less than 1%</Question>
+			<Answer> - A combination of pembrolizumab, carboplatin, and paclitaxel or nab-paclitaxel should be recommended when it is possible. - In people who cannot receive immunotherapy, a combination of 2 chemotherapy drugs is recommended. - Combination of nivolumab and ipilimumab. - Nivolumab and ipilimumab plus platinum-based chemotherapy. - Cemiplimab plus chemotherapy. - Durvalumab and tremelimumab plus platinum-based chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="16">
+			<Question>What are the first-line treatment options for patients with EGFR gene mutations in metastatic or stage IV NSCLC?</Question>
+			<Answer> Treatments with targeted therapies called TKIs may be options. Treatment with TKIs with or without chemotherapy may also be offered to certain patients as well as chemotherapy combinations with or without bevacizumab. - Osimertinib. - Dacomitinib. - Afatinib. - Erlotinib. - Erlotinib and ramucirumab. - Gefitinib. - Icotinib (Conmana; this is not approved in United States). - Amivantamab (Exon 20 mutations only).</Answer>
+	</QAPair>
+	<QAPair pid="17">
+			<Question>What are the first-line treatment options for patients with ALK fusions in metastatic or stage IV NSCLC?</Question>
+			<Answer>Treatments with targeted therapies called TKIs may be options. Targeted therapy options are alectinib, brigatinib, lorlatinib, ceritinib, or crizotinib.</Answer>
+	</QAPair>
+	<QAPair pid="18">
+			<Question>What are the first-line treatment options for patients with ROS1 fusions in metastatic or stage IV NSCLC?</Question>
+			<Answer>Treatments with targeted therapies called TKIs may be options. Targeted therapy options are entrectinib, crizotinib, or chemotherapy with or without immunotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="19">
+			<Question>What are the first-line treatment options for patients BRAF V600E mutations in metastatic or stage IV NSCLC?</Question>
+			<Answer>Treatments with targeted therapies called TKIs may be options. Targeted therapy options are dabrafenib and trametinib or chemotherapy with or without immunotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="20">
+			<Question>What are the first-line treatment options for patients with MET exon 14 skipping mutations in metastatic or stage IV NSCLC?</Question>
+			<Answer>Treatments with targeted therapies called TKIs may be options. Targeted therapy options are capmatinib, tepotinib, or chemotherapy with or without immunotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="21">
+			<Question>What are the first-line treatment options for patients with RET fusions in metastatic or stage IV NSCLC?</Question>
+			<Answer>Treatments with targeted therapies called TKIs may be options. Targeted therapy options are selpercatinib or pralsetinib (Gavreto). Chemotherapy with or without immunotherapy, bevacizumab, or both may also be recommended.</Answer>
+	</QAPair>
+	<QAPair pid="22">
+			<Question>What are the first-line treatment options for patients with NTRK fusions in metastatic or stage IV NSCLC?</Question>
+			<Answer>Treatments with targeted therapies called TKIs may be options. Targeted therapy options are entrectinib, larotrectinib, or chemotherapy with or without immunotherapy.</Answer>
+	</QAPair>	
+</QAPairs>
+</Document>
